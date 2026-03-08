@@ -12,7 +12,7 @@ try {
 }
 */
 
-const CACHE_NAME = 'emergence-cache-v3';
+const CACHE_NAME = 'emergence-cache-v1.0.0';
 const urlsToCache = [
   '/sekhamet-emergence/',
   '/sekhamet-emergence/index.html',
