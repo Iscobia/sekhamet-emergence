@@ -1,10 +1,10 @@
 {
-  "id": "/sekhamet-emergence/",
+  "id": "/",
   "name": "EMERGENCE - Défis quotidiens et Supports d'apprentissages",
   "short_name": "EMERGENCE",
   "description": "Mon Inconscient comme Allié",
-  "start_url": "/sekhamet-emergence/",
-  "scope": "/sekhamet-emergence/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#0b252f",
   "theme_color": "#0b252f",

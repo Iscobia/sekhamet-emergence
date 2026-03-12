@@ -14,15 +14,15 @@ try {
 
 const CACHE_NAME = 'emergence-cache-v1.0.0';
 const urlsToCache = [
-  '/sekhamet-emergence/',
-  '/sekhamet-emergence/index.html',
-  '/sekhamet-emergence/config.js',
-  '/sekhamet-emergence/manifest.json',
-  '/sekhamet-emergence/theme.css',
-  '/sekhamet-emergence/data/defis.js',
-  '/sekhamet-emergence/core/style.css',
-  '/sekhamet-emergence/core/app.js',
-  '/sekhamet-emergence/core/notifications.js'
+  '/',
+  '/index.html',
+  '/config.js',
+  '/manifest.json',
+  '/theme.css',
+  '/data/defis.js',
+  '/core/style.css',
+  '/core/app.js',
+  '/core/notifications.js'
 ];
 
 
